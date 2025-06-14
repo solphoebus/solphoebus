@@ -4,7 +4,7 @@ I am a EEE major, pursuing engineering. I am a full stack developer + designer.
 My repos will come across as an amalgamation of my work as an EEE student + my personal projects and hackathons/case studies.
  
 ### 🪐 some of my projects:  
-⚝ [My Website!](https://kashvi-rho.vercel.app/)  
+⚝ [My Website!]()  
 ⚝ [Port Management](https://greenports-byteme.vercel.app/)  
 
 
