@@ -1,4 +1,4 @@
-# I'm Ronit
+# Hi, I am Ronit :)
 
 I am a EEE major, pursuing engineering. I am a full stack developer + designer.
 My repos will come across as an amalgamation of my work as an EEE student + my personal projects and hackathons/case studies.
